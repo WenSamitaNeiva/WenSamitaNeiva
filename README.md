@@ -1,1 +1,1 @@
-Wince or Waive & FireOfEternity & foe.db Developer
+Wince or Waive & FireOfEternity & npm.db & npm.mongo & give-away Developer
