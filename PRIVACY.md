@@ -12,7 +12,7 @@ Bu politika Wince or Waive'i kapsar. İştiraklerimizden ve/veya programlarımı
 Topladığımız bilgiler ve onları kullanım şeklimiz 
 Kanal Sunucu ID'leri – Bu bot kendi ayarlamalarınıza dayanarak Bazı kanal, kişi, mesaj ve sunucu ID'lerini depolar. Bilgileri vermek için kullanabileceğiniz bazı yöntemler ve verebileceğiniz bilgi tipleri aşağıdadır. Size bilgiyi nasıl kullanabileceğimizi de açıklayacağız.
 
-Bizimle İrtibat Kurun - Destek sunucumuza gelebilir veya w*bildir komutu ile bize bir rapor gönderebilirsiniz.
+Bizimle İrtibat Kurun - Destek sunucumuza (https://discord.gg/7njGPPbZ7j) gelebilir veya w*bildir komutu ile bize bir rapor gönderebilirsiniz.
 
 
 Paylaştığımız Bilgiler 
@@ -30,5 +30,4 @@ Gizlilik Beyanımızın Güncellemeleri
 Bu Gizlilik Beyanı çevrimiçi bilgi uygulamalarımızdaki değişiklikleri yansıtması için periyodik olarak ve önceden size haber verilmeden güncellenebilir. Gizlilik Beyanımızdaki önemli değişiklikleri size bildirmek için bu bota bir bildirim yazacak ve en son ne zaman güncellendiğini belirteceğiz.
 
 Bizimle İrtibat Kurma 
-Eğer bu Gizlilik Beyanı hakkında sorularınız veya yorumlarınız varsa veya siz ya da tercihleriniz hakkındaki bilgileri güncellememizi istiyorsanız lütfen destek sunucumuzdan, w*bildir komutundan ya da ! ζ͜͡₩₷Ꞑ ♕ WenSamita Neiva ʷˢᶰ
-#7464 Discord adresimden bana ulaşabilirsiniz.
+Eğer bu Gizlilik Beyanı hakkında sorularınız veya yorumlarınız varsa veya siz ya da tercihleriniz hakkındaki bilgileri güncellememizi istiyorsanız lütfen destek sunucumuzdan, w*bildir komutundan ya da Milyavana#1337 Discord adresimden bana ulaşabilirsiniz. (Support server: https://discord.gg/7njGPPbZ7j)
