@@ -1,1 +1,1 @@
-Wince or Waive & FireOfEternity & npm.db & npm.mongo & give-away Developer
+Wince or Waive (https://airt.cf/woden/) & https://wodenapp.tk/ & https://airt.cf/ Developer
