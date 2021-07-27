@@ -2,6 +2,8 @@ GİZLİLİK POLİTİKASI
 
 Amacımız mahremiyetinizi ve Discord üzerinden bize sunduğunuz bilgileri korumaktır. Bu bot ile ilgili bütün konular Türkiye Cumhuriyeti'nin kanunlarına tabidir ve onlar kapsamında yorumlanır.
 
++ Woden APP üzerinden kaydedilen IPler hukuki meseleler ve bazı özellikler (ban vs.) dışında kullanılmamaktadır.
+
 Bu botu kullanarak bu Gizlilik Koşulları’nı, bu bottaki telif hakkı bildirimini ve bu bottaki Kullanım Şartları’nı kabul ettiğinizi belirtirsiniz.
 
 Bu bot 13 yaşın altındaki çocuklara yönelik değildir ve sitede 13 yaşın altındaki çocuklardan bilerek kişisel bilgi toplamayız. Eğer sitede kasıtsız olarak 13 yaşın altındaki bir ziyaretçinin kişisel bilgilerini aldığımızın farkına varırsak, bu bilgileri kayıtlarımızdan sileriz.
